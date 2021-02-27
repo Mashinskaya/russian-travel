@@ -4,7 +4,7 @@
 
 @media screen and (max-width: 767px) {
     .footer__menu-link {
-        display: grid; 
+        display: grid;
         gap: 32px;
     }
 }
