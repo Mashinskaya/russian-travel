@@ -1,0 +1,10 @@
+.footer__menu-link {
+    display: flex;    
+}
+
+@media screen and (max-width: 767px) {
+    .footer__menu-link {
+        display: grid; 
+        gap: 32px;
+    }
+}
