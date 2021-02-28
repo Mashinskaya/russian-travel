@@ -1,0 +1,6 @@
+.link-active {
+    transition: 8s linear;
+}
+.link-active:hover {
+    opacity: 0.8;
+}
