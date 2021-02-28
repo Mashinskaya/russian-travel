@@ -6,6 +6,8 @@
     line-height: 104%;
     margin: 56px 0 0;
     box-sizing: border-box;
+    max-width: 720px;
+    max-height: 200px;
 }
 @media screen and (max-width: 1279px) {
     .lead__title {
