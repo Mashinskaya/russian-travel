@@ -7,7 +7,7 @@
     color: #FFFFFF;
 }
 
-.place__link-link_active:hover {
+.place__link_active:hover {
     opacity: 0.8; 
 }
 

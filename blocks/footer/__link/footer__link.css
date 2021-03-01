@@ -8,7 +8,7 @@
     margin-right: 18px;
 }
 
-.footer__link-link_active:hover {
+.footer__link_active:hover {
     opacity: 0.8;
 }
 
